@@ -1,2 +1,3 @@
-CryptCast.github.io
-CryptCast.xyz
+# CryptCast.xyz
+
+Best podcast 2018
