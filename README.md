@@ -1,2 +1,2 @@
-# CryptCast.github.io
-# CryptCast.xyz
+CryptCast.github.io
+CryptCast.xyz
